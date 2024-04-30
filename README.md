@@ -1,2 +1,2 @@
 # Hackthon_practice
-you can find all of my practice hackathons in this folder
+Certainly! Here's a description for a folder in a GitHub repository dedicated to storing hackathon practice codes and results:
